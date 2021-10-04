@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kasun Amarasinghe!](www.kasunlakshitha.me) 
+## Hey <img src="https://github.com/lakshitha94/required_files/Hi.gif" width="29px">, I'm [Kasun Amarasinghe!](www.kasunlakshitha.me) 
 
 
 
@@ -70,6 +70,11 @@
 <p  align="center">
 <img src="https://img.shields.io/twitter/follow/Kasunlakshith45?style=social" />
 <img src="https://img.shields.io/youtube/channel/views/UCjTpbSJvro2FCS6EopX5snQ?style=social" />
+</p>
+
+<p>
+![Kasun Lakshitha](https://github.com/lakshitha94/required_files/bottom_header.svg)
+<br>
 </p>
   
 [website]: http://www.kasunlakshitha.me
