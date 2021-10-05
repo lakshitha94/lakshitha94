@@ -1,8 +1,13 @@
 ## Hey <img src="https://github.com/lakshitha94/lakshitha94/blob/master/required_files/Hi.gif" width="29px">, I'm [Kasun Amarasinghe!](www.kasunlakshitha.me) 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Degree-Applied%20Statistics-blue" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-blue" />
+</p>
 
 
-- 🔭 I am an Software Engineer Lead at Creative Software
+- 🔭 I'm a Software Engineer at Creative Software
+- 🎓 I graduated from Department of Statistics, University of Colombo 
 - 🌱 I’m currently improving my Data Engineering knowledge
 - 👯 Enthusiastic to traveling remote, unseen places around the little Island
 - 🥅 2021 Goals: Contribute more to Data engineering and to improve myself as an IT professional
@@ -15,23 +20,21 @@
 [<img align="left" alt="Kasunlakshith45 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kasun Amarasinghe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="___k_a_s_u_n____ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Kasun Lakshitha | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
 
 <br />
 <br />
 
-![Lakshitha's github stats](https://github-readme-stats.vercel.app/api?username=lakshitha94&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
+![Lakshitha's github stats](https://github-readme-stats.vercel.app/api?username=lakshitha94&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 <br />
 <br />
 
-### Now Playing 🎧
-
+<!-- ### Now Playing 🎧
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31qxho7cgg3rlr7i3av3oxdkxezm)
 <br/>
 <br />
-### Languages and Tools:
-
-
-
+### Languages and Tools: -->
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/python/python.png" />][python]
 
@@ -77,7 +80,7 @@
 
 
 
-  
+[facebook]: https://www.facebook.com/kasun418/  
 [website]: http://www.kasunlakshitha.me
 [gmail]: mailto:kasunlakshitha418@gmail.com
 [twitter]: https://twitter.com/Kasunlakshith45/
