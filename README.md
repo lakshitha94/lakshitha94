@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/lakshitha94/lakshitha94/blob/master/required_files/Hi.gif" width="29px">, I'm [Kasun Amarasinghe!](www.kasunlakshitha.me) 
+## Hey <img src="https://github.com/lakshitha94/lakshitha94/blob/master/required_files/Hi.gif" width="29px" />, I'm [Kasun Amarasinghe!][website]
 
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-Applied%20Statistics-blue" />
