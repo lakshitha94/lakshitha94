@@ -81,7 +81,7 @@
 
 
 [facebook]: https://www.facebook.com/kasun418/  
-[website]: http://www.kasunlakshitha.me
+[website]: https://lakshitha94.github.io/
 [gmail]: mailto:kasunlakshitha418@gmail.com
 [twitter]: https://twitter.com/Kasunlakshith45/
 [youtube]: https://www.youtube.com/channel/UCjTpbSJvro2FCS6EopX5snQ
