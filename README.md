@@ -26,7 +26,7 @@
 <br />
 <br />
 
-![Lakshitha's github stats](https://github-readme-stats.vercel.app/api?username=lakshitha94&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+![Lakshitha's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lakshitha94&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 <br />
 <br />
 
