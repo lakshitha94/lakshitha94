@@ -2,11 +2,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-Applied%20Statistics-blue" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-blue" />
+  <img src="https://img.shields.io/badge/Lives-Oslo,Norway-blue" />
 </p>
 
 
-- 🔭 I'm a Data Engineer at CNTXT
+- 🔭 I'm a Data Engineer at Cognite
 - 🎓 I graduated from Department of Statistics, University of Colombo 
 - 🌱 I’m currently improving my Data science knowledge
 - 👯 Enthusiastic to traveling remote, unseen places around the little Island
