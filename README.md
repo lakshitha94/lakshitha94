@@ -9,8 +9,8 @@
 - 🔭 I'm a Data Engineer at Cognite
 - 🎓 I graduated from Department of Statistics, University of Colombo 
 - 🌱 I’m currently improving my Data science knowledge
-- 👯 Enthusiastic to traveling remote, unseen places around the little Island
-- 🥅 2025 Goals: Contribute more to Data engineering and to improve myself as an IT professional
+- 👯 Trekking from cabin to cabin across mountain terrain, finding places along the fjords that few ever see 
+- 🥅 2026 Goals: Contribute more to Data engineering and to improve myself as an IT professional
 
 ### Connect with me:
 
